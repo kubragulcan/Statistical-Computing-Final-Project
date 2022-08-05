@@ -1,5 +1,5 @@
 
-# Statistical Computing Final Project
+# Statistical Computing Project
 # Free Diving Records App
 
 inst_pack_func <- function(list.of.packages){
